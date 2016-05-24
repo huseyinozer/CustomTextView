@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Custom Text View</string>
+    <string name="hello_message">Merhaba Arkadaşlar, \nBugünkü dersimiz Custom bir TextView yapmaktı ve yaptık :) </string>
+    <string name="custom_font_path">fonts/jockey_full_of_bourbon.ttf</string>
+</resources>
